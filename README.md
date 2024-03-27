@@ -10,7 +10,6 @@
 * **Admin Dashboard:** Active Admin
 * **Style Checker:** Rubocop
 * **Images Upload:** Cloudinary
-* ...
 
 ### Stystem Setup
 
@@ -30,7 +29,7 @@
 
 ## 👥 Authors <a name="authors"></a>
 
- 👤 Usman Zulfiqar
+ 👤 Talha Nasir
 
-- GitHub: [@usman-zulfiqar065](https://github.com/usman-zulfiqar065)
-- LinkedIn: [Usman Zulfiqar](https://www.linkedin.com/in/usman-zulfiqar/)
+- GitHub: [talhanasir167](https://github.com/talhanasir167)
+- LinkedIn: [Talha Nasir](https://www.linkedin.com/in/talhanasir305/)
